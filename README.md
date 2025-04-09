@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![About Me](https://readme-typing-svg.demolab.com?lines=Hello+there!;I+am+a+front+end+developer.)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BrotaOne)
+![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=BrotaOne&layout=compact&theme=buefy&hide_border=truee)
