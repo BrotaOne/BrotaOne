@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![About Me](https://readme-typing-svg.demolab.com?lines=Hello+there!;I+am+a+front+end+developer.)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BrotaOne)
